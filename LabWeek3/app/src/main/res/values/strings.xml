@@ -10,6 +10,6 @@
     <string name="information">Information:</string>
     <string name="details">This mobile application is about calculating bills for electricity that has been used per month.</string>
     <string name="website">
-        <a href = "https://www.youtube.com/">Click here for more information</a>
+        <a href = "https://github.com/puteridania/ICT602/tree/main">Click here for more information</a>
     </string>
 </resources>

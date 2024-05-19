@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">CalcuBill</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="copyright">Copyright &#169; 2024 Dania</string>
+    <string name="about_me">About Developer:</string>
+    <string name="name">Name: Puteri Dania Athirah Binti Mohd Rizal</string>
+    <string name="group">Group: CDCS2405B</string>
+    <string name="student_num">Student Number: 2023165305</string>
+    <string name="program_code">Programme Code: CDCS240</string>
+    <string name="information">Information:</string>
+    <string name="details">This mobile application is about calculating bills for electricity that has been used per month.</string>
+    <string name="website">
+        <a href = "https://www.youtube.com/">Click here for more information</a>
+    </string>
+</resources>
